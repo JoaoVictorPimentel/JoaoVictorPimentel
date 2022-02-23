@@ -31,12 +31,3 @@
   <a href="https://github.com/JoaoVictorPimentel" target="_blank"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-pimentel-9068ba230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-##
-
-### Quantidade de visitas
-<p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/JoaoVictorPimentel/count.svg" />
- </p>
-
-##
