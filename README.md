@@ -9,8 +9,8 @@
 
 ### Sobre mim
 - 🏝️ Sou Brasileiro e moro em São Miguel dos Campos-AL.
-- 👨‍🎓 Cursando Sistemas de Informação.
-- 💻 Estou procurando aprimorar meus conhecimentos como desenvolvedor.
+- 👨‍🎓 Cursando Sistemas de Informação, 3º Período.
+- 💻 Estou buscando aprimorar meus conhecimentos como desenvolvedor.
 
 ##
 
