@@ -1,4 +1,4 @@
-## Eu sou o João! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Eu sou o João! 
 
 ### GitHub Stats 📈
 <div align="center">
