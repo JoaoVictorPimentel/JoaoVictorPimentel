@@ -13,7 +13,7 @@
 - 🏝️ Sou Brasileiro e moro em São Miguel dos Campos-AL.
 - 👨‍🎓 Cursando Sistemas de Informação, 7º Período.
 - 🧠 Estou buscando aprimorar meus conhecimentos como desenvolvedor.
-- 💻 Atualmente trabalho como estagiário na Secretária Municipal de Saúde em Maceió, utilizando PHP/Laravel
+- 💻 Atualmente trabalho como estagiário na Secretária Municipal de Saúde em Maceió, utilizando PHP/Laravel.
 
 ##
 
