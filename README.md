@@ -11,17 +11,17 @@
   
 ### Sobre mim 🙋‍♂️
 - 🏝️ Sou Brasileiro e moro em São Miguel dos Campos-AL.
-- 👨‍🎓 Cursando Sistemas de Informação, 7º Período.
+- 👨‍🎓 Cursando Sistemas de Informação, 8º Período.
 - 🧠 Estou buscando aprimorar meus conhecimentos como desenvolvedor.
-- 💻 Atualmente trabalho como estagiário na Secretária Municipal de Saúde em Maceió, utilizando PHP/Laravel.
+- 💻 Atualmente trabalho como estagiário na Secretária Municipal de Saúde em Maceió, utilizando PHP/Laravel e VueJs.
 
 ##
 
 ### Skills 💻
 <div style="display: inline_block"><br>
-  <img align="center" alt="João-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="João-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="João-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Joao-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="João-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="João-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="João-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="João-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
