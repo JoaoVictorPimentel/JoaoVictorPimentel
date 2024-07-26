@@ -20,10 +20,11 @@
 
 ##
 
-### Habilidades 
 <img align="right" width="498" height="329" src="https://media.tenor.com/UlmNqQlrC6QAAAAi/mega-charizard-x-flying.gif">
 
-### Tecnologias
+### Habilidades 💻
+
+### Tecnologias 
 <p>
   <img alt="Laravel" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg">
   <img alt="Vue" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg">
