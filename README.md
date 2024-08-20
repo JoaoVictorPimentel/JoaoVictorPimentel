@@ -20,8 +20,6 @@
 
 ##
 
-<img align="right" width="498" height="329" src="https://media.tenor.com/UlmNqQlrC6QAAAAi/mega-charizard-x-flying.gif">
-
 ### Habilidades 💻
 
 ### Tecnologias 
