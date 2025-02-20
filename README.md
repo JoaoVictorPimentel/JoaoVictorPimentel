@@ -14,9 +14,10 @@
   
 ### Sobre mim 🙋‍♂️
 - 🏝️ Sou Brasileiro e moro em São Miguel dos Campos-AL.
-- 👨‍🎓 Cursando Sistemas de Informação, 8º Período.
+- 👨‍🎓 Graduado em Sistemas de Informação.
+- 🤖 Cursando Pós-Graduação em Inteligência Artificial e Ciência de dados.
 - 🧠 Estou buscando aprimorar meus conhecimentos como desenvolvedor.
-- 💻 Atualmente trabalho como estagiário na Secretária Municipal de Saúde em Maceió, utilizando PHP/Laravel e VueJs.
+- 💻 Atualmente trabalho utilizando Laravel e VueJs.
 
 ##
 
